@@ -4,3 +4,4 @@ Lucky Chinese,River View Colony,Telco Colony,Jamshedpur
 New Variety Store,Bhubaneshwari Temple Road,Telco Colony,Jamshedpur
 Agarwal Grocery Store,Plaza Market,Telco Colony,Jamshedpur
 Bedi Medical Store,Kharangajhar,Telco Colony,Jamshedpur
+Maa Tara Sweets,Plaza Market,Telco Colony,Jamshedpur
