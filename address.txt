@@ -1,3 +1,3 @@
 Purnendu,143,Balagere Road,Varthur,Bangalore
 Rohit,882,VimanNamagar,Viman Nagar,Pune
-Samary,Akash Apartments,BTM Layouy,Bangalore
+Samar,Akash Apartments,BTM Layouy,Bangalore
