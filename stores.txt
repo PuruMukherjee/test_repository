@@ -6,4 +6,5 @@ Agarwal Grocery Store,Plaza Market,Telco Colony,Jamshedpur
 Bedi Medical Store,Kharangajhar,Telco Colony,Jamshedpur
 Sharda Vastralaya,Kharangajhar Market,Telco Colony,Jamshedpur
 Maa Tara Sweets,Plaza Market,Telco Colony,Jamshedpur
+Binodh Chai Store,Plaza Market,Telco Colony,Jamshedpur
 Rao Ice Cream Store,Plaza Market,Telco Colony,Jamshedpur
